@@ -1,6 +1,6 @@
-## Project code for [Mockito Tutorials](https://www.journaldev.com/java/mockito) on JournalDev
+## Project code for [Mockito Tutorials](https://www.journaldev.com/java/mockito)
 
-### Mockito Tutorials Articles
+### Mockito Articles
 
 * [Mockito Tutorial](https://www.journaldev.com/21816/mockito-tutorial)
 * [Mockito TestNG Example](https://www.journaldev.com/21822/testng-mockito-example)
